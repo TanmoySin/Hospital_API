@@ -9,8 +9,8 @@ NodeJs & MongoDB
 
 [ Note* This API is also Hosted Online, if you want to call the API from the hosted site then you have to follow the similiar steps, only the chnages you need to do is Replace " http://localhost:8000/ " with the link of the hosted site. (Hosted site will be shared bellow) ]
 
-Hosted Link:-
-Github Link:-
+Hosted Link:- https://hospital-api-qhtu.onrender.com
+Github Link:- https://github.com/TanmoySin/Hospital_API.git
 
 
 ____________________________________________________________________________
